@@ -1,7 +1,17 @@
 ### Hi 👋, I'm Kerollos Emad welcome to my GitHub
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/91436830/171515466-7c060975-27a4-49d5-9949-32791570ac8c.png"
+  >
+</p>
 
-![Logo1 align=center](https://user-images.githubusercontent.com/91436830/171506810-aacc36e6-a52b-4321-9783-825b732f66a7.png)
-
+<p align="right">
+  <img 
+       width=100
+       hight=100
+    src="https://user-images.githubusercontent.com/91436830/171516237-1708a523-dc2e-4436-ae46-5e60367e6220.png"
+  >
+</p>
 
 - 🔭 I’m currently working on my graduation project
 - 👯 I’m looking to collaborate on  Embedded System Projects in companies or statrups.
@@ -12,9 +22,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerollosemd&show_icons=true&theme=tokyonight&hide=stars,issues&hide_border)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kerollosemd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerollosemd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerollosemd&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![hippo]()
+![hippo](https://github.com/KerollosEmd/KerollosEmd/blob/fc8ee157ef274aee22882183a9adf88cf055b3fa/GitHub_intro2.gif)
 
 
 <!--
