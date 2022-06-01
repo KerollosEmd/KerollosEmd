@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi 👋, I'm Kerollos Emad welcome to my GitHub
 
+![electronics-and-embedded](https://user-images.githubusercontent.com/91436830/171481090-cf151f1c-1bf3-4c9f-83dd-a15b4db23697.jpg)
+
+
+- 🔭 I’m currently working on my graduation project
+- 👯 I’m looking to collaborate on  Embedded System Projects in companies or statrups.
+- 💬 Ask me about any think you want that if I can help, I won't be late as I can.
+- 📫 reach me by sending email on kerollosemad26@gmail.com or calling on my phone +201555744328 don't be Shy 😄
 <!--
 **KerollosEmd/KerollosEmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
