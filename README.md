@@ -4,7 +4,7 @@
     src="https://user-images.githubusercontent.com/91436830/171515466-7c060975-27a4-49d5-9949-32791570ac8c.png"
   >
 </p>
-
+<!--
 <p align="right">
   <img 
        width=100
@@ -12,6 +12,7 @@
     src="https://user-images.githubusercontent.com/91436830/171516237-1708a523-dc2e-4436-ae46-5e60367e6220.png"
   >
 </p>
+-->
 
 - 🔭 I’m currently working on my graduation project
 - 👯 I’m looking to collaborate on  Embedded System Projects in companies or statrups.
