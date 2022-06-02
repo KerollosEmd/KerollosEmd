@@ -26,6 +26,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerollosemd&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![hippo](https://github.com/KerollosEmd/KerollosEmd/blob/fc8ee157ef274aee22882183a9adf88cf055b3fa/GitHub_intro2.gif)
+![GitHub Snake dark](https://github.com/KerollosEmd/KerollosEmd/blob/3b04132508273f24186e4936f4d9856f12856da8/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 
 <!--
