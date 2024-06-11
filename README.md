@@ -14,8 +14,7 @@
 </p>
 -->
 
-- 🔭 I’m currently working on my graduation project
-- 👯 I’m looking to collaborate on  Embedded System Projects in companies or statrups.
+- 🔭 I’m currently working as Embedded SW Engineer @ Valeo 
 - 💬 Ask me about any think you want that if I can help, I won't be late as I can.
 - 📫 reach me by sending email on kerollosemad26@gmail.com or calling on my phone +201555744328 don't be Shy 😄
 
